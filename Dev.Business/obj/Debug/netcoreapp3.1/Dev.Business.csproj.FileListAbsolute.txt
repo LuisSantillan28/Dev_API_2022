@@ -1,0 +1,17 @@
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Business.deps.json
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Business.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Business.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Data.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Enum.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Model.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Data.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Enum.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\bin\Debug\netcoreapp3.1\Dev.Model.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.csproj.AssemblyReference.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.AssemblyInfoInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.AssemblyInfo.cs
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.csproj.CoreCompileInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.csproj.CopyComplete
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Business\obj\Debug\netcoreapp3.1\Dev.Business.pdb

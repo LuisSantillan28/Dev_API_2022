@@ -1,0 +1,15 @@
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Data.deps.json
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Data.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Data.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Enum.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Model.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Model.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\bin\Debug\netcoreapp3.1\Dev.Enum.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.csproj.AssemblyReference.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.AssemblyInfoInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.AssemblyInfo.cs
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.csproj.CoreCompileInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.csproj.CopyComplete
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Data\obj\Debug\netcoreapp3.1\Dev.Data.pdb
