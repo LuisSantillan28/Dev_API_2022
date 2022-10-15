@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Dev.Enum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Dev.Enum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dev.Enum.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Dev.Enum/1.0.0": {
+      "type": "project",
+      "path": "../Dev.Enum/Dev.Enum.csproj",
+      "msbuildProject": "../Dev.Enum/Dev.Enum.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Dev.Enum >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PC08-\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Curso UTXJ\\Curso .NET\\Dev.Api\\Dev.Enum\\Dev.Enum.csproj": {
+              "projectPath": "C:\\Curso UTXJ\\Curso .NET\\Dev.Api\\Dev.Enum\\Dev.Enum.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

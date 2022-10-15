@@ -1,0 +1,10 @@
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\bin\Debug\netcoreapp3.1\Dev.Enum.deps.json
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\bin\Debug\netcoreapp3.1\Dev.Enum.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\bin\Debug\netcoreapp3.1\Dev.Enum.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.csproj.AssemblyReference.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.AssemblyInfoInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.AssemblyInfo.cs
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.csproj.CoreCompileInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Enum\obj\Debug\netcoreapp3.1\Dev.Enum.pdb

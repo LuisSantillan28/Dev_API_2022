@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dev.Model/1.0.0": {
+        "dependencies": {
+          "Dev.Enum": "1.0.0"
+        },
+        "runtime": {
+          "Dev.Model.dll": {}
+        }
+      },
+      "Dev.Enum/1.0.0": {
+        "runtime": {
+          "Dev.Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dev.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dev.Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

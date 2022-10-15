@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Dev.Enum\Dev.Enum.csproj" />
+  </ItemGroup>
+
 </Project>

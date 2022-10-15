@@ -1,0 +1,10 @@
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\bin\Debug\netcoreapp3.1\Dev.Util.deps.json
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\bin\Debug\netcoreapp3.1\Dev.Util.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\bin\Debug\netcoreapp3.1\Dev.Util.pdb
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.csproj.AssemblyReference.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.AssemblyInfoInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.AssemblyInfo.cs
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.csproj.CoreCompileInputs.cache
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.dll
+C:\Curso UTXJ\Curso .NET\Dev.Api\Dev.Util\obj\Debug\netcoreapp3.1\Dev.Util.pdb
